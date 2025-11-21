@@ -9,8 +9,7 @@ class LinkedList {
         // Node Constructor                                                      
         Node() : data(0), next(nullptr){}                                        
         Node(int val) : data(val), next(nullptr){}                               
-    }                                           
-                                                                                 
+    }                                                                                 
 public:                                                                          
     // LinkedList Constructor                                                    
     LinkedList() {                                                               
